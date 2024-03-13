@@ -7,5 +7,14 @@ Customize and create different widgets that integrate perfectly with Hyprland.
   - [ ] Background
   - [ ] Input
 - [ ] Conf file
-- [ ] Flake
 - [ ] Theming
+
+# Installation
+- [ ] Arch
+- [ ] Flake
+  - [ ] Home-manager
+- [ ] Nixpkgs
+  - [ ] Home-manager
+
+## Manual
+- [ ] Cmake build
